@@ -1,0 +1,750 @@
+2026-10-07 07:40:18,280 INFO scraping_assignment: Pipeline completed: 1099 final records
+2026-10-07 07:41:26,023 INFO scrapers.books_scraper: Scraping book page 1: https://books.toscrape.com/
+2026-10-07 07:41:28,175 INFO scrapers.books_scraper: Scraping book page 2: https://books.toscrape.com/catalogue/page-2.html
+2026-10-07 07:41:29,318 INFO scrapers.books_scraper: Scraping book page 3: https://books.toscrape.com/catalogue/page-3.html
+2026-10-07 07:41:30,486 INFO scrapers.books_scraper: Scraping book page 4: https://books.toscrape.com/catalogue/page-4.html
+2026-10-07 07:41:31,657 INFO scrapers.books_scraper: Scraping book page 5: https://books.toscrape.com/catalogue/page-5.html
+2026-10-07 07:41:32,839 INFO scrapers.books_scraper: Scraping book page 6: https://books.toscrape.com/catalogue/page-6.html
+2026-10-07 07:41:34,276 INFO scrapers.books_scraper: Scraping book page 7: https://books.toscrape.com/catalogue/page-7.html
+2026-10-07 07:41:35,426 INFO scrapers.books_scraper: Scraping book page 8: https://books.toscrape.com/catalogue/page-8.html
+2026-10-07 07:41:36,584 INFO scrapers.books_scraper: Scraping book page 9: https://books.toscrape.com/catalogue/page-9.html
+2026-10-07 07:41:38,725 INFO scrapers.books_scraper: Scraping book page 10: https://books.toscrape.com/catalogue/page-10.html
+2026-10-07 07:41:39,897 INFO scrapers.books_scraper: Scraping book page 11: https://books.toscrape.com/catalogue/page-11.html
+2026-10-07 07:41:41,398 INFO scrapers.books_scraper: Scraping book page 12: https://books.toscrape.com/catalogue/page-12.html
+2026-10-07 07:41:42,903 INFO scrapers.books_scraper: Scraping book page 13: https://books.toscrape.com/catalogue/page-13.html
+2026-10-07 07:41:45,006 INFO scrapers.books_scraper: Scraping book page 14: https://books.toscrape.com/catalogue/page-14.html
+2026-10-07 07:41:46,543 INFO scrapers.books_scraper: Scraping book page 15: https://books.toscrape.com/catalogue/page-15.html
+2026-10-07 07:41:48,023 INFO scrapers.books_scraper: Scraping book page 16: https://books.toscrape.com/catalogue/page-16.html
+2026-10-07 07:41:49,454 INFO scrapers.books_scraper: Scraping book page 17: https://books.toscrape.com/catalogue/page-17.html
+2026-10-07 07:41:51,048 INFO scrapers.books_scraper: Scraping book page 18: https://books.toscrape.com/catalogue/page-18.html
+2026-10-07 07:41:52,602 INFO scrapers.books_scraper: Scraping book page 19: https://books.toscrape.com/catalogue/page-19.html
+2026-10-07 07:41:54,039 INFO scrapers.books_scraper: Scraping book page 20: https://books.toscrape.com/catalogue/page-20.html
+2026-10-07 07:41:55,573 INFO scrapers.books_scraper: Scraping book page 21: https://books.toscrape.com/catalogue/page-21.html
+2026-10-07 07:41:57,008 INFO scrapers.books_scraper: Scraping book page 22: https://books.toscrape.com/catalogue/page-22.html
+2026-10-07 07:41:58,268 INFO scrapers.books_scraper: Scraping book page 23: https://books.toscrape.com/catalogue/page-23.html
+2026-10-07 07:41:59,446 INFO scrapers.books_scraper: Scraping book page 24: https://books.toscrape.com/catalogue/page-24.html
+2026-10-07 07:42:00,665 INFO scrapers.books_scraper: Scraping book page 25: https://books.toscrape.com/catalogue/page-25.html
+2026-10-07 07:42:01,844 INFO scrapers.books_scraper: Scraping book page 26: https://books.toscrape.com/catalogue/page-26.html
+2026-10-07 07:42:02,977 INFO scrapers.books_scraper: Scraping book page 27: https://books.toscrape.com/catalogue/page-27.html
+2026-10-07 07:42:04,150 INFO scrapers.books_scraper: Scraping book page 28: https://books.toscrape.com/catalogue/page-28.html
+2026-10-07 07:42:05,303 INFO scrapers.books_scraper: Scraping book page 29: https://books.toscrape.com/catalogue/page-29.html
+2026-10-07 07:42:06,647 INFO scrapers.books_scraper: Scraping book page 30: https://books.toscrape.com/catalogue/page-30.html
+2026-10-07 07:42:07,889 INFO scrapers.books_scraper: Scraping book page 31: https://books.toscrape.com/catalogue/page-31.html
+2026-10-07 07:42:09,119 INFO scrapers.books_scraper: Scraping book page 32: https://books.toscrape.com/catalogue/page-32.html
+2026-10-07 07:42:10,418 INFO scrapers.books_scraper: Scraping book page 33: https://books.toscrape.com/catalogue/page-33.html
+2026-10-07 07:42:11,746 INFO scrapers.books_scraper: Scraping book page 34: https://books.toscrape.com/catalogue/page-34.html
+2026-10-07 07:42:12,915 INFO scrapers.books_scraper: Scraping book page 35: https://books.toscrape.com/catalogue/page-35.html
+2026-10-07 07:42:14,569 INFO scrapers.books_scraper: Scraping book page 36: https://books.toscrape.com/catalogue/page-36.html
+2026-10-07 07:42:15,714 INFO scrapers.books_scraper: Scraping book page 37: https://books.toscrape.com/catalogue/page-37.html
+2026-10-07 07:42:16,849 INFO scrapers.books_scraper: Scraping book page 38: https://books.toscrape.com/catalogue/page-38.html
+2026-10-07 07:42:18,094 INFO scrapers.books_scraper: Scraping book page 39: https://books.toscrape.com/catalogue/page-39.html
+2026-10-07 07:42:19,364 INFO scrapers.books_scraper: Scraping book page 40: https://books.toscrape.com/catalogue/page-40.html
+2026-10-07 07:42:20,643 INFO scrapers.books_scraper: Scraping book page 41: https://books.toscrape.com/catalogue/page-41.html
+2026-10-07 07:42:22,833 INFO scrapers.books_scraper: Scraping book page 42: https://books.toscrape.com/catalogue/page-42.html
+2026-10-07 07:42:24,310 INFO scrapers.books_scraper: Scraping book page 43: https://books.toscrape.com/catalogue/page-43.html
+2026-10-07 07:42:26,418 INFO scrapers.books_scraper: Scraping book page 44: https://books.toscrape.com/catalogue/page-44.html
+2026-10-07 07:42:28,468 INFO scrapers.books_scraper: Scraping book page 45: https://books.toscrape.com/catalogue/page-45.html
+2026-10-07 07:42:30,219 INFO scrapers.books_scraper: Scraping book page 46: https://books.toscrape.com/catalogue/page-46.html
+2026-10-07 07:42:32,020 INFO scrapers.books_scraper: Scraping book page 47: https://books.toscrape.com/catalogue/page-47.html
+2026-10-07 07:42:33,843 INFO scrapers.books_scraper: Scraping book page 48: https://books.toscrape.com/catalogue/page-48.html
+2026-10-07 07:42:35,569 INFO scrapers.books_scraper: Scraping book page 49: https://books.toscrape.com/catalogue/page-49.html
+2026-10-07 07:42:37,490 INFO scrapers.books_scraper: Scraping book page 50: https://books.toscrape.com/catalogue/page-50.html
+2026-10-07 07:42:39,543 INFO scrapers.books_scraper: Collected 1000 raw book records from 50 pages
+2026-10-07 07:42:39,543 INFO scrapers.quotes_scraper: Scraping quote page 1: https://quotes.toscrape.com/
+2026-10-07 07:42:41,438 INFO scrapers.quotes_scraper: Scraping quote page 2: https://quotes.toscrape.com/page/2/
+2026-10-07 07:42:42,746 INFO scrapers.quotes_scraper: Scraping quote page 3: https://quotes.toscrape.com/page/3/
+2026-10-07 07:42:43,599 INFO scrapers.quotes_scraper: Scraping quote page 4: https://quotes.toscrape.com/page/4/
+2026-10-07 07:42:44,435 INFO scrapers.quotes_scraper: Scraping quote page 5: https://quotes.toscrape.com/page/5/
+2026-10-07 07:42:45,275 INFO scrapers.quotes_scraper: Scraping quote page 6: https://quotes.toscrape.com/page/6/
+2026-10-07 07:42:46,241 INFO scrapers.quotes_scraper: Scraping quote page 7: https://quotes.toscrape.com/page/7/
+2026-10-07 07:42:47,071 INFO scrapers.quotes_scraper: Scraping quote page 8: https://quotes.toscrape.com/page/8/
+2026-10-07 07:42:48,357 INFO scrapers.quotes_scraper: Scraping quote page 9: https://quotes.toscrape.com/page/9/
+2026-10-07 07:43:03,701 ERROR scrapers.quotes_scraper: Failed to fetch quote page https://quotes.toscrape.com/page/9/
+Traceback (most recent call last):
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\urllib3\response.py", line 929, in _error_catcher
+    yield
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\urllib3\response.py", line 1046, in _raw_read
+    data = self._fp_read(amt, read1=read1) if not fp_closed else b""
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\urllib3\response.py", line 1029, in _fp_read
+    return self._fp.read(amt) if amt is not None else self._fp.read()
+           ~~~~~~~~~~~~~^^^^^
+  File "C:\Users\indra\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 484, in read
+    s = self.fp.read(amt)
+  File "C:\Users\indra\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\indra\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\indra\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\requests\models.py", line 820, in generate
+    yield from self.raw.stream(chunk_size, decode_content=True)
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\urllib3\response.py", line 1291, in stream
+    data = self.read(amt=amt, decode_content=decode_content)
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\urllib3\response.py", line 1134, in read
+    data = self._raw_read(amt)
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\urllib3\response.py", line 1045, in _raw_read
+    with self._error_catcher():
+         ~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\indra\AppData\Local\Python\pythoncore-3.14-64\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\urllib3\response.py", line 934, in _error_catcher
+    raise ReadTimeoutError(self._pool, None, "Read timed out.") from e  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='quotes.toscrape.com', port=443): Read timed out.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\scrapers\quotes_scraper.py", line 51, in scrape_quotes
+    response = get_page(session, current_url)
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\scrapers\base_scraper.py", line 47, in get_page
+    response = session.get(url, timeout=REQUEST_TIMEOUT_SECONDS)
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\requests\sessions.py", line 602, in get
+    return self.request("GET", url, **kwargs)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\requests\sessions.py", line 746, in send
+    r.content
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\requests\models.py", line 902, in content
+    self._content = b"".join(self.iter_content(CONTENT_CHUNK_SIZE)) or b""
+                    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\requests\models.py", line 826, in generate
+    raise ConnectionError(e)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='quotes.toscrape.com', port=443): Read timed out.
+2026-10-07 07:43:03,788 INFO scrapers.quotes_scraper: Collected 80 raw quote records from 9 pages
+2026-10-07 07:43:03,829 INFO root: Pipeline completed: 1079 final records
+2026-10-07 07:43:55,533 INFO scrapers.books_scraper: Scraping book page 1: https://books.toscrape.com/
+2026-10-07 07:43:57,734 INFO scrapers.books_scraper: Scraping book page 2: https://books.toscrape.com/catalogue/page-2.html
+2026-10-07 07:43:58,855 INFO scrapers.books_scraper: Scraping book page 3: https://books.toscrape.com/catalogue/page-3.html
+2026-10-07 07:43:59,999 INFO scrapers.books_scraper: Scraping book page 4: https://books.toscrape.com/catalogue/page-4.html
+2026-10-07 07:44:01,295 INFO scrapers.books_scraper: Scraping book page 5: https://books.toscrape.com/catalogue/page-5.html
+2026-10-07 07:44:02,435 INFO scrapers.books_scraper: Scraping book page 6: https://books.toscrape.com/catalogue/page-6.html
+2026-10-07 07:44:03,684 INFO scrapers.books_scraper: Scraping book page 7: https://books.toscrape.com/catalogue/page-7.html
+2026-10-07 07:44:04,966 INFO scrapers.books_scraper: Scraping book page 8: https://books.toscrape.com/catalogue/page-8.html
+2026-10-07 07:44:06,245 INFO scrapers.books_scraper: Scraping book page 9: https://books.toscrape.com/catalogue/page-9.html
+2026-10-07 07:44:07,479 INFO scrapers.books_scraper: Scraping book page 10: https://books.toscrape.com/catalogue/page-10.html
+2026-10-07 07:44:08,628 INFO scrapers.books_scraper: Scraping book page 11: https://books.toscrape.com/catalogue/page-11.html
+2026-10-07 07:44:09,767 INFO scrapers.books_scraper: Scraping book page 12: https://books.toscrape.com/catalogue/page-12.html
+2026-10-07 07:44:10,973 INFO scrapers.books_scraper: Scraping book page 13: https://books.toscrape.com/catalogue/page-13.html
+2026-10-07 07:44:12,185 INFO scrapers.books_scraper: Scraping book page 14: https://books.toscrape.com/catalogue/page-14.html
+2026-10-07 07:44:13,458 INFO scrapers.books_scraper: Scraping book page 15: https://books.toscrape.com/catalogue/page-15.html
+2026-10-07 07:44:14,736 INFO scrapers.books_scraper: Scraping book page 16: https://books.toscrape.com/catalogue/page-16.html
+2026-10-07 07:44:15,872 INFO scrapers.books_scraper: Scraping book page 17: https://books.toscrape.com/catalogue/page-17.html
+2026-10-07 07:44:17,009 INFO scrapers.books_scraper: Scraping book page 18: https://books.toscrape.com/catalogue/page-18.html
+2026-10-07 07:44:18,251 INFO scrapers.books_scraper: Scraping book page 19: https://books.toscrape.com/catalogue/page-19.html
+2026-10-07 07:44:19,526 INFO scrapers.books_scraper: Scraping book page 20: https://books.toscrape.com/catalogue/page-20.html
+2026-10-07 07:44:20,810 INFO scrapers.books_scraper: Scraping book page 21: https://books.toscrape.com/catalogue/page-21.html
+2026-10-07 07:44:22,091 INFO scrapers.books_scraper: Scraping book page 22: https://books.toscrape.com/catalogue/page-22.html
+2026-10-07 07:44:23,227 INFO scrapers.books_scraper: Scraping book page 23: https://books.toscrape.com/catalogue/page-23.html
+2026-10-07 07:44:24,494 INFO scrapers.books_scraper: Scraping book page 24: https://books.toscrape.com/catalogue/page-24.html
+2026-10-07 07:44:25,748 INFO scrapers.books_scraper: Scraping book page 25: https://books.toscrape.com/catalogue/page-25.html
+2026-10-07 07:44:26,887 INFO scrapers.books_scraper: Scraping book page 26: https://books.toscrape.com/catalogue/page-26.html
+2026-10-07 07:44:28,166 INFO scrapers.books_scraper: Scraping book page 27: https://books.toscrape.com/catalogue/page-27.html
+2026-10-07 07:44:29,337 INFO scrapers.books_scraper: Scraping book page 28: https://books.toscrape.com/catalogue/page-28.html
+2026-10-07 07:44:30,602 INFO scrapers.books_scraper: Scraping book page 29: https://books.toscrape.com/catalogue/page-29.html
+2026-10-07 07:44:31,770 INFO scrapers.books_scraper: Scraping book page 30: https://books.toscrape.com/catalogue/page-30.html
+2026-10-07 07:44:32,978 INFO scrapers.books_scraper: Scraping book page 31: https://books.toscrape.com/catalogue/page-31.html
+2026-10-07 07:44:34,113 INFO scrapers.books_scraper: Scraping book page 32: https://books.toscrape.com/catalogue/page-32.html
+2026-10-07 07:44:35,277 INFO scrapers.books_scraper: Scraping book page 33: https://books.toscrape.com/catalogue/page-33.html
+2026-10-07 07:44:36,437 INFO scrapers.books_scraper: Scraping book page 34: https://books.toscrape.com/catalogue/page-34.html
+2026-10-07 07:44:37,592 INFO scrapers.books_scraper: Scraping book page 35: https://books.toscrape.com/catalogue/page-35.html
+2026-10-07 07:44:38,910 INFO scrapers.books_scraper: Scraping book page 36: https://books.toscrape.com/catalogue/page-36.html
+2026-10-07 07:44:40,059 INFO scrapers.books_scraper: Scraping book page 37: https://books.toscrape.com/catalogue/page-37.html
+2026-10-07 07:44:41,286 INFO scrapers.books_scraper: Scraping book page 38: https://books.toscrape.com/catalogue/page-38.html
+2026-10-07 07:44:42,576 INFO scrapers.books_scraper: Scraping book page 39: https://books.toscrape.com/catalogue/page-39.html
+2026-10-07 07:44:43,778 INFO scrapers.books_scraper: Scraping book page 40: https://books.toscrape.com/catalogue/page-40.html
+2026-10-07 07:44:44,935 INFO scrapers.books_scraper: Scraping book page 41: https://books.toscrape.com/catalogue/page-41.html
+2026-10-07 07:44:46,263 INFO scrapers.books_scraper: Scraping book page 42: https://books.toscrape.com/catalogue/page-42.html
+2026-10-07 07:44:47,525 INFO scrapers.books_scraper: Scraping book page 43: https://books.toscrape.com/catalogue/page-43.html
+2026-10-07 07:44:48,712 INFO scrapers.books_scraper: Scraping book page 44: https://books.toscrape.com/catalogue/page-44.html
+2026-10-07 07:44:49,935 INFO scrapers.books_scraper: Scraping book page 45: https://books.toscrape.com/catalogue/page-45.html
+2026-10-07 07:44:51,220 INFO scrapers.books_scraper: Scraping book page 46: https://books.toscrape.com/catalogue/page-46.html
+2026-10-07 07:44:52,384 INFO scrapers.books_scraper: Scraping book page 47: https://books.toscrape.com/catalogue/page-47.html
+2026-10-07 07:44:53,613 INFO scrapers.books_scraper: Scraping book page 48: https://books.toscrape.com/catalogue/page-48.html
+2026-10-07 07:44:54,905 INFO scrapers.books_scraper: Scraping book page 49: https://books.toscrape.com/catalogue/page-49.html
+2026-10-07 07:44:56,181 INFO scrapers.books_scraper: Scraping book page 50: https://books.toscrape.com/catalogue/page-50.html
+2026-10-07 07:44:57,432 INFO scrapers.books_scraper: Collected 1000 raw book records from 50 pages
+2026-10-07 07:44:57,433 INFO scrapers.quotes_scraper: Scraping quote page 1: https://quotes.toscrape.com/
+2026-10-07 07:45:00,356 INFO scrapers.quotes_scraper: Scraping quote page 2: https://quotes.toscrape.com/page/2/
+2026-10-07 07:45:01,583 INFO scrapers.quotes_scraper: Scraping quote page 3: https://quotes.toscrape.com/page/3/
+2026-10-07 07:45:03,040 INFO scrapers.quotes_scraper: Scraping quote page 4: https://quotes.toscrape.com/page/4/
+2026-10-07 07:45:04,195 INFO scrapers.quotes_scraper: Scraping quote page 5: https://quotes.toscrape.com/page/5/
+2026-10-07 07:45:05,382 INFO scrapers.quotes_scraper: Scraping quote page 6: https://quotes.toscrape.com/page/6/
+2026-10-07 07:45:06,531 INFO scrapers.quotes_scraper: Scraping quote page 7: https://quotes.toscrape.com/page/7/
+2026-10-07 07:45:07,658 INFO scrapers.quotes_scraper: Scraping quote page 8: https://quotes.toscrape.com/page/8/
+2026-10-07 07:45:08,807 INFO scrapers.quotes_scraper: Scraping quote page 9: https://quotes.toscrape.com/page/9/
+2026-10-07 07:45:10,055 INFO scrapers.quotes_scraper: Scraping quote page 10: https://quotes.toscrape.com/page/10/
+2026-10-07 07:45:11,282 INFO scrapers.quotes_scraper: Collected 100 raw quote records from 10 pages
+2026-10-07 07:45:11,309 INFO root: Pipeline completed: 1099 final records
+2026-10-07 07:57:33,299 INFO scrapers.books_scraper: Scraping book page 1: https://books.toscrape.com/
+2026-10-07 07:57:35,827 INFO scrapers.books_scraper: Scraping book page 2: https://books.toscrape.com/catalogue/page-2.html
+2026-10-07 07:57:37,537 INFO scrapers.books_scraper: Scraping book page 3: https://books.toscrape.com/catalogue/page-3.html
+2026-10-07 07:57:39,640 INFO scrapers.books_scraper: Scraping book page 4: https://books.toscrape.com/catalogue/page-4.html
+2026-10-07 07:57:41,155 INFO scrapers.books_scraper: Scraping book page 5: https://books.toscrape.com/catalogue/page-5.html
+2026-10-07 07:57:42,650 INFO scrapers.books_scraper: Scraping book page 6: https://books.toscrape.com/catalogue/page-6.html
+2026-10-07 07:57:44,169 INFO scrapers.books_scraper: Scraping book page 7: https://books.toscrape.com/catalogue/page-7.html
+2026-10-07 07:57:45,812 INFO scrapers.books_scraper: Scraping book page 8: https://books.toscrape.com/catalogue/page-8.html
+2026-10-07 07:57:47,562 INFO scrapers.books_scraper: Scraping book page 9: https://books.toscrape.com/catalogue/page-9.html
+2026-10-07 07:57:49,418 INFO scrapers.books_scraper: Scraping book page 10: https://books.toscrape.com/catalogue/page-10.html
+2026-10-07 07:57:51,226 INFO scrapers.books_scraper: Scraping book page 11: https://books.toscrape.com/catalogue/page-11.html
+2026-10-07 07:57:52,759 INFO scrapers.books_scraper: Scraping book page 12: https://books.toscrape.com/catalogue/page-12.html
+2026-10-07 07:57:54,290 INFO scrapers.books_scraper: Scraping book page 13: https://books.toscrape.com/catalogue/page-13.html
+2026-10-07 07:57:55,865 INFO scrapers.books_scraper: Scraping book page 14: https://books.toscrape.com/catalogue/page-14.html
+2026-10-07 07:57:57,483 INFO scrapers.books_scraper: Scraping book page 15: https://books.toscrape.com/catalogue/page-15.html
+2026-10-07 07:57:59,048 INFO scrapers.books_scraper: Scraping book page 16: https://books.toscrape.com/catalogue/page-16.html
+2026-10-07 07:58:00,257 INFO scrapers.books_scraper: Scraping book page 17: https://books.toscrape.com/catalogue/page-17.html
+2026-10-07 07:58:01,466 INFO scrapers.books_scraper: Scraping book page 18: https://books.toscrape.com/catalogue/page-18.html
+2026-10-07 07:58:03,213 INFO scrapers.books_scraper: Scraping book page 19: https://books.toscrape.com/catalogue/page-19.html
+2026-10-07 07:58:04,498 INFO scrapers.books_scraper: Scraping book page 20: https://books.toscrape.com/catalogue/page-20.html
+2026-10-07 07:58:05,678 INFO scrapers.books_scraper: Scraping book page 21: https://books.toscrape.com/catalogue/page-21.html
+2026-10-07 07:58:06,862 INFO scrapers.books_scraper: Scraping book page 22: https://books.toscrape.com/catalogue/page-22.html
+2026-10-07 07:58:08,121 INFO scrapers.books_scraper: Scraping book page 23: https://books.toscrape.com/catalogue/page-23.html
+2026-10-07 07:58:09,308 INFO scrapers.books_scraper: Scraping book page 24: https://books.toscrape.com/catalogue/page-24.html
+2026-10-07 07:58:10,492 INFO scrapers.books_scraper: Scraping book page 25: https://books.toscrape.com/catalogue/page-25.html
+2026-10-07 07:58:11,657 INFO scrapers.books_scraper: Scraping book page 26: https://books.toscrape.com/catalogue/page-26.html
+2026-10-07 07:58:12,824 INFO scrapers.books_scraper: Scraping book page 27: https://books.toscrape.com/catalogue/page-27.html
+2026-10-07 07:58:14,017 INFO scrapers.books_scraper: Scraping book page 28: https://books.toscrape.com/catalogue/page-28.html
+2026-10-07 07:58:15,182 INFO scrapers.books_scraper: Scraping book page 29: https://books.toscrape.com/catalogue/page-29.html
+2026-10-07 07:58:16,493 INFO scrapers.books_scraper: Scraping book page 30: https://books.toscrape.com/catalogue/page-30.html
+2026-10-07 07:58:17,689 INFO scrapers.books_scraper: Scraping book page 31: https://books.toscrape.com/catalogue/page-31.html
+2026-10-07 07:58:18,869 INFO scrapers.books_scraper: Scraping book page 32: https://books.toscrape.com/catalogue/page-32.html
+2026-10-07 07:58:20,066 INFO scrapers.books_scraper: Scraping book page 33: https://books.toscrape.com/catalogue/page-33.html
+2026-10-07 07:58:21,298 INFO scrapers.books_scraper: Scraping book page 34: https://books.toscrape.com/catalogue/page-34.html
+2026-10-07 07:58:22,580 INFO scrapers.books_scraper: Scraping book page 35: https://books.toscrape.com/catalogue/page-35.html
+2026-10-07 07:58:23,753 INFO scrapers.books_scraper: Scraping book page 36: https://books.toscrape.com/catalogue/page-36.html
+2026-10-07 07:58:24,938 INFO scrapers.books_scraper: Scraping book page 37: https://books.toscrape.com/catalogue/page-37.html
+2026-10-07 07:58:26,255 INFO scrapers.books_scraper: Scraping book page 38: https://books.toscrape.com/catalogue/page-38.html
+2026-10-07 07:58:28,758 INFO scrapers.books_scraper: Scraping book page 39: https://books.toscrape.com/catalogue/page-39.html
+2026-10-07 07:58:29,981 INFO scrapers.books_scraper: Scraping book page 40: https://books.toscrape.com/catalogue/page-40.html
+2026-10-07 07:58:31,694 INFO scrapers.books_scraper: Scraping book page 41: https://books.toscrape.com/catalogue/page-41.html
+2026-10-07 07:58:33,453 INFO scrapers.books_scraper: Scraping book page 42: https://books.toscrape.com/catalogue/page-42.html
+2026-10-07 07:58:35,014 INFO scrapers.books_scraper: Scraping book page 43: https://books.toscrape.com/catalogue/page-43.html
+2026-10-07 07:58:36,577 INFO scrapers.books_scraper: Scraping book page 44: https://books.toscrape.com/catalogue/page-44.html
+2026-10-07 07:58:38,091 INFO scrapers.books_scraper: Scraping book page 45: https://books.toscrape.com/catalogue/page-45.html
+2026-10-07 07:58:39,693 INFO scrapers.books_scraper: Scraping book page 46: https://books.toscrape.com/catalogue/page-46.html
+2026-10-07 07:58:41,027 INFO scrapers.books_scraper: Scraping book page 47: https://books.toscrape.com/catalogue/page-47.html
+2026-10-07 07:58:42,254 INFO scrapers.books_scraper: Scraping book page 48: https://books.toscrape.com/catalogue/page-48.html
+2026-10-07 07:58:43,459 INFO scrapers.books_scraper: Scraping book page 49: https://books.toscrape.com/catalogue/page-49.html
+2026-10-07 07:58:44,656 INFO scrapers.books_scraper: Scraping book page 50: https://books.toscrape.com/catalogue/page-50.html
+2026-10-07 07:58:45,853 INFO scrapers.books_scraper: Collected 1000 raw book records from 50 pages
+2026-10-07 07:58:45,853 INFO scrapers.quotes_scraper: Scraping quote page 1: https://quotes.toscrape.com/
+2026-10-07 07:58:47,852 INFO scrapers.quotes_scraper: Scraping quote page 2: https://quotes.toscrape.com/page/2/
+2026-10-07 07:58:48,733 INFO scrapers.quotes_scraper: Scraping quote page 3: https://quotes.toscrape.com/page/3/
+2026-10-07 07:58:49,607 INFO scrapers.quotes_scraper: Scraping quote page 4: https://quotes.toscrape.com/page/4/
+2026-10-07 07:58:50,467 INFO scrapers.quotes_scraper: Scraping quote page 5: https://quotes.toscrape.com/page/5/
+2026-10-07 07:58:51,371 INFO scrapers.quotes_scraper: Scraping quote page 6: https://quotes.toscrape.com/page/6/
+2026-10-07 07:58:52,219 INFO scrapers.quotes_scraper: Scraping quote page 7: https://quotes.toscrape.com/page/7/
+2026-10-07 07:58:53,441 INFO scrapers.quotes_scraper: Scraping quote page 8: https://quotes.toscrape.com/page/8/
+2026-10-07 07:58:54,719 INFO scrapers.quotes_scraper: Scraping quote page 9: https://quotes.toscrape.com/page/9/
+2026-10-07 07:59:10,178 ERROR scrapers.quotes_scraper: Failed to fetch quote page https://quotes.toscrape.com/page/9/
+Traceback (most recent call last):
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\urllib3\response.py", line 929, in _error_catcher
+    yield
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\urllib3\response.py", line 1046, in _raw_read
+    data = self._fp_read(amt, read1=read1) if not fp_closed else b""
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\urllib3\response.py", line 1029, in _fp_read
+    return self._fp.read(amt) if amt is not None else self._fp.read()
+           ~~~~~~~~~~~~~^^^^^
+  File "C:\Users\indra\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 484, in read
+    s = self.fp.read(amt)
+  File "C:\Users\indra\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\indra\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\indra\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\requests\models.py", line 820, in generate
+    yield from self.raw.stream(chunk_size, decode_content=True)
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\urllib3\response.py", line 1291, in stream
+    data = self.read(amt=amt, decode_content=decode_content)
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\urllib3\response.py", line 1134, in read
+    data = self._raw_read(amt)
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\urllib3\response.py", line 1045, in _raw_read
+    with self._error_catcher():
+         ~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\indra\AppData\Local\Python\pythoncore-3.14-64\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\urllib3\response.py", line 934, in _error_catcher
+    raise ReadTimeoutError(self._pool, None, "Read timed out.") from e  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='quotes.toscrape.com', port=443): Read timed out.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\scrapers\quotes_scraper.py", line 51, in scrape_quotes
+    response = get_page(session, current_url)
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\scrapers\base_scraper.py", line 47, in get_page
+    response = session.get(url, timeout=REQUEST_TIMEOUT_SECONDS)
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\requests\sessions.py", line 602, in get
+    return self.request("GET", url, **kwargs)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\requests\sessions.py", line 746, in send
+    r.content
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\requests\models.py", line 902, in content
+    self._content = b"".join(self.iter_content(CONTENT_CHUNK_SIZE)) or b""
+                    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\requests\models.py", line 826, in generate
+    raise ConnectionError(e)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='quotes.toscrape.com', port=443): Read timed out.
+2026-10-07 07:59:10,185 INFO scrapers.quotes_scraper: Collected 80 raw quote records from 9 pages
+2026-10-07 07:59:10,205 INFO root: Pipeline completed: 1079 final records
+2026-10-07 08:01:57,899 INFO scrapers.books_scraper: Scraping book page 1: https://books.toscrape.com/
+2026-10-07 08:02:00,046 INFO scrapers.books_scraper: Scraping book page 2: https://books.toscrape.com/catalogue/page-2.html
+2026-10-07 08:02:01,218 INFO scrapers.books_scraper: Scraping book page 3: https://books.toscrape.com/catalogue/page-3.html
+2026-10-07 08:02:02,457 INFO scrapers.books_scraper: Scraping book page 4: https://books.toscrape.com/catalogue/page-4.html
+2026-10-07 08:02:03,613 INFO scrapers.books_scraper: Scraping book page 5: https://books.toscrape.com/catalogue/page-5.html
+2026-10-07 08:02:04,773 INFO scrapers.books_scraper: Scraping book page 6: https://books.toscrape.com/catalogue/page-6.html
+2026-10-07 08:02:05,909 INFO scrapers.books_scraper: Scraping book page 7: https://books.toscrape.com/catalogue/page-7.html
+2026-10-07 08:02:07,075 INFO scrapers.books_scraper: Scraping book page 8: https://books.toscrape.com/catalogue/page-8.html
+2026-10-07 08:02:08,215 INFO scrapers.books_scraper: Scraping book page 9: https://books.toscrape.com/catalogue/page-9.html
+2026-10-07 08:02:09,381 INFO scrapers.books_scraper: Scraping book page 10: https://books.toscrape.com/catalogue/page-10.html
+2026-10-07 08:02:10,524 INFO scrapers.books_scraper: Scraping book page 11: https://books.toscrape.com/catalogue/page-11.html
+2026-10-07 08:02:11,690 INFO scrapers.books_scraper: Scraping book page 12: https://books.toscrape.com/catalogue/page-12.html
+2026-10-07 08:02:12,847 INFO scrapers.books_scraper: Scraping book page 13: https://books.toscrape.com/catalogue/page-13.html
+2026-10-07 08:02:13,987 INFO scrapers.books_scraper: Scraping book page 14: https://books.toscrape.com/catalogue/page-14.html
+2026-10-07 08:02:15,120 INFO scrapers.books_scraper: Scraping book page 15: https://books.toscrape.com/catalogue/page-15.html
+2026-10-07 08:02:16,296 INFO scrapers.books_scraper: Scraping book page 16: https://books.toscrape.com/catalogue/page-16.html
+2026-10-07 08:02:17,523 INFO scrapers.books_scraper: Scraping book page 17: https://books.toscrape.com/catalogue/page-17.html
+2026-10-07 08:02:18,726 INFO scrapers.books_scraper: Scraping book page 18: https://books.toscrape.com/catalogue/page-18.html
+2026-10-07 08:02:19,927 INFO scrapers.books_scraper: Scraping book page 19: https://books.toscrape.com/catalogue/page-19.html
+2026-10-07 08:02:21,125 INFO scrapers.books_scraper: Scraping book page 20: https://books.toscrape.com/catalogue/page-20.html
+2026-10-07 08:02:22,433 INFO scrapers.books_scraper: Scraping book page 21: https://books.toscrape.com/catalogue/page-21.html
+2026-10-07 08:02:23,685 INFO scrapers.books_scraper: Scraping book page 22: https://books.toscrape.com/catalogue/page-22.html
+2026-10-07 08:02:24,869 INFO scrapers.books_scraper: Scraping book page 23: https://books.toscrape.com/catalogue/page-23.html
+2026-10-07 08:02:26,900 INFO scrapers.books_scraper: Scraping book page 24: https://books.toscrape.com/catalogue/page-24.html
+2026-10-07 08:02:28,071 INFO scrapers.books_scraper: Scraping book page 25: https://books.toscrape.com/catalogue/page-25.html
+2026-10-07 08:02:29,234 INFO scrapers.books_scraper: Scraping book page 26: https://books.toscrape.com/catalogue/page-26.html
+2026-10-07 08:02:30,408 INFO scrapers.books_scraper: Scraping book page 27: https://books.toscrape.com/catalogue/page-27.html
+2026-10-07 08:02:31,569 INFO scrapers.books_scraper: Scraping book page 28: https://books.toscrape.com/catalogue/page-28.html
+2026-10-07 08:02:32,723 INFO scrapers.books_scraper: Scraping book page 29: https://books.toscrape.com/catalogue/page-29.html
+2026-10-07 08:02:33,965 INFO scrapers.books_scraper: Scraping book page 30: https://books.toscrape.com/catalogue/page-30.html
+2026-10-07 08:02:35,141 INFO scrapers.books_scraper: Scraping book page 31: https://books.toscrape.com/catalogue/page-31.html
+2026-10-07 08:02:36,356 INFO scrapers.books_scraper: Scraping book page 32: https://books.toscrape.com/catalogue/page-32.html
+2026-10-07 08:02:37,560 INFO scrapers.books_scraper: Scraping book page 33: https://books.toscrape.com/catalogue/page-33.html
+2026-10-07 08:02:38,777 INFO scrapers.books_scraper: Scraping book page 34: https://books.toscrape.com/catalogue/page-34.html
+2026-10-07 08:02:40,030 INFO scrapers.books_scraper: Scraping book page 35: https://books.toscrape.com/catalogue/page-35.html
+2026-10-07 08:02:41,171 INFO scrapers.books_scraper: Scraping book page 36: https://books.toscrape.com/catalogue/page-36.html
+2026-10-07 08:02:42,386 INFO scrapers.books_scraper: Scraping book page 37: https://books.toscrape.com/catalogue/page-37.html
+2026-10-07 08:02:43,566 INFO scrapers.books_scraper: Scraping book page 38: https://books.toscrape.com/catalogue/page-38.html
+2026-10-07 08:02:44,746 INFO scrapers.books_scraper: Scraping book page 39: https://books.toscrape.com/catalogue/page-39.html
+2026-10-07 08:02:45,894 INFO scrapers.books_scraper: Scraping book page 40: https://books.toscrape.com/catalogue/page-40.html
+2026-10-07 08:02:47,225 INFO scrapers.books_scraper: Scraping book page 41: https://books.toscrape.com/catalogue/page-41.html
+2026-10-07 08:02:48,486 INFO scrapers.books_scraper: Scraping book page 42: https://books.toscrape.com/catalogue/page-42.html
+2026-10-07 08:02:49,653 INFO scrapers.books_scraper: Scraping book page 43: https://books.toscrape.com/catalogue/page-43.html
+2026-10-07 08:02:50,840 INFO scrapers.books_scraper: Scraping book page 44: https://books.toscrape.com/catalogue/page-44.html
+2026-10-07 08:02:52,019 INFO scrapers.books_scraper: Scraping book page 45: https://books.toscrape.com/catalogue/page-45.html
+2026-10-07 08:02:53,254 INFO scrapers.books_scraper: Scraping book page 46: https://books.toscrape.com/catalogue/page-46.html
+2026-10-07 08:02:54,436 INFO scrapers.books_scraper: Scraping book page 47: https://books.toscrape.com/catalogue/page-47.html
+2026-10-07 08:02:55,664 INFO scrapers.books_scraper: Scraping book page 48: https://books.toscrape.com/catalogue/page-48.html
+2026-10-07 08:02:56,839 INFO scrapers.books_scraper: Scraping book page 49: https://books.toscrape.com/catalogue/page-49.html
+2026-10-07 08:02:58,267 INFO scrapers.books_scraper: Scraping book page 50: https://books.toscrape.com/catalogue/page-50.html
+2026-10-07 08:03:00,133 INFO scrapers.books_scraper: Collected 1000 raw book records from 50 pages
+2026-10-07 08:03:00,133 INFO scrapers.quotes_scraper: Scraping quote page 1: https://quotes.toscrape.com/
+2026-10-07 08:03:03,281 INFO scrapers.quotes_scraper: Scraping quote page 2: https://quotes.toscrape.com/page/2/
+2026-10-07 08:03:04,414 INFO scrapers.quotes_scraper: Scraping quote page 3: https://quotes.toscrape.com/page/3/
+2026-10-07 08:03:05,696 INFO scrapers.quotes_scraper: Scraping quote page 4: https://quotes.toscrape.com/page/4/
+2026-10-07 08:03:06,877 INFO scrapers.quotes_scraper: Scraping quote page 5: https://quotes.toscrape.com/page/5/
+2026-10-07 08:03:08,121 INFO scrapers.quotes_scraper: Scraping quote page 6: https://quotes.toscrape.com/page/6/
+2026-10-07 08:03:09,445 INFO scrapers.quotes_scraper: Scraping quote page 7: https://quotes.toscrape.com/page/7/
+2026-10-07 08:03:10,631 INFO scrapers.quotes_scraper: Scraping quote page 8: https://quotes.toscrape.com/page/8/
+2026-10-07 08:03:11,770 INFO scrapers.quotes_scraper: Scraping quote page 9: https://quotes.toscrape.com/page/9/
+2026-10-07 08:03:12,934 INFO scrapers.quotes_scraper: Scraping quote page 10: https://quotes.toscrape.com/page/10/
+2026-10-07 08:03:14,083 INFO scrapers.quotes_scraper: Collected 100 raw quote records from 10 pages
+2026-10-07 08:03:14,121 INFO root: Pipeline completed: 1099 final records
+2026-10-07 08:05:30,245 INFO scrapers.books_scraper: Scraping book page 1: https://books.toscrape.com/
+2026-10-07 08:05:32,513 INFO scrapers.books_scraper: Scraping book page 2: https://books.toscrape.com/catalogue/page-2.html
+2026-10-07 08:05:33,677 INFO scrapers.books_scraper: Scraping book page 3: https://books.toscrape.com/catalogue/page-3.html
+2026-10-07 08:05:34,807 INFO scrapers.books_scraper: Scraping book page 4: https://books.toscrape.com/catalogue/page-4.html
+2026-10-07 08:05:35,960 INFO scrapers.books_scraper: Scraping book page 5: https://books.toscrape.com/catalogue/page-5.html
+2026-10-07 08:05:37,145 INFO scrapers.books_scraper: Scraping book page 6: https://books.toscrape.com/catalogue/page-6.html
+2026-10-07 08:05:38,290 INFO scrapers.books_scraper: Scraping book page 7: https://books.toscrape.com/catalogue/page-7.html
+2026-10-07 08:05:39,446 INFO scrapers.books_scraper: Scraping book page 8: https://books.toscrape.com/catalogue/page-8.html
+2026-10-07 08:05:40,656 INFO scrapers.books_scraper: Scraping book page 9: https://books.toscrape.com/catalogue/page-9.html
+2026-10-07 08:05:41,839 INFO scrapers.books_scraper: Scraping book page 10: https://books.toscrape.com/catalogue/page-10.html
+2026-10-07 08:05:43,057 INFO scrapers.books_scraper: Scraping book page 11: https://books.toscrape.com/catalogue/page-11.html
+2026-10-07 08:05:44,313 INFO scrapers.books_scraper: Scraping book page 12: https://books.toscrape.com/catalogue/page-12.html
+2026-10-07 08:05:45,590 INFO scrapers.books_scraper: Scraping book page 13: https://books.toscrape.com/catalogue/page-13.html
+2026-10-07 08:05:46,922 INFO scrapers.books_scraper: Scraping book page 14: https://books.toscrape.com/catalogue/page-14.html
+2026-10-07 08:05:48,095 INFO scrapers.books_scraper: Scraping book page 15: https://books.toscrape.com/catalogue/page-15.html
+2026-10-07 08:05:49,343 INFO scrapers.books_scraper: Scraping book page 16: https://books.toscrape.com/catalogue/page-16.html
+2026-10-07 08:05:50,494 INFO scrapers.books_scraper: Scraping book page 17: https://books.toscrape.com/catalogue/page-17.html
+2026-10-07 08:05:52,673 INFO scrapers.books_scraper: Scraping book page 18: https://books.toscrape.com/catalogue/page-18.html
+2026-10-07 08:05:53,847 INFO scrapers.books_scraper: Scraping book page 19: https://books.toscrape.com/catalogue/page-19.html
+2026-10-07 08:05:55,002 INFO scrapers.books_scraper: Scraping book page 20: https://books.toscrape.com/catalogue/page-20.html
+2026-10-07 08:05:56,200 INFO scrapers.books_scraper: Scraping book page 21: https://books.toscrape.com/catalogue/page-21.html
+2026-10-07 08:05:58,417 INFO scrapers.books_scraper: Scraping book page 22: https://books.toscrape.com/catalogue/page-22.html
+2026-10-07 08:05:59,601 INFO scrapers.books_scraper: Scraping book page 23: https://books.toscrape.com/catalogue/page-23.html
+2026-10-07 08:06:01,238 INFO scrapers.books_scraper: Scraping book page 24: https://books.toscrape.com/catalogue/page-24.html
+2026-10-07 08:06:02,750 INFO scrapers.books_scraper: Scraping book page 25: https://books.toscrape.com/catalogue/page-25.html
+2026-10-07 08:06:04,347 INFO scrapers.books_scraper: Scraping book page 26: https://books.toscrape.com/catalogue/page-26.html
+2026-10-07 08:06:05,794 INFO scrapers.books_scraper: Scraping book page 27: https://books.toscrape.com/catalogue/page-27.html
+2026-10-07 08:06:07,460 INFO scrapers.books_scraper: Scraping book page 28: https://books.toscrape.com/catalogue/page-28.html
+2026-10-07 08:06:08,929 INFO scrapers.books_scraper: Scraping book page 29: https://books.toscrape.com/catalogue/page-29.html
+2026-10-07 08:06:10,429 INFO scrapers.books_scraper: Scraping book page 30: https://books.toscrape.com/catalogue/page-30.html
+2026-10-07 08:06:11,882 INFO scrapers.books_scraper: Scraping book page 31: https://books.toscrape.com/catalogue/page-31.html
+2026-10-07 08:06:13,473 INFO scrapers.books_scraper: Scraping book page 32: https://books.toscrape.com/catalogue/page-32.html
+2026-10-07 08:06:15,083 INFO scrapers.books_scraper: Scraping book page 33: https://books.toscrape.com/catalogue/page-33.html
+2026-10-07 08:06:16,672 INFO scrapers.books_scraper: Scraping book page 34: https://books.toscrape.com/catalogue/page-34.html
+2026-10-07 08:06:18,274 INFO scrapers.books_scraper: Scraping book page 35: https://books.toscrape.com/catalogue/page-35.html
+2026-10-07 08:06:19,860 INFO scrapers.books_scraper: Scraping book page 36: https://books.toscrape.com/catalogue/page-36.html
+2026-10-07 08:06:20,991 INFO scrapers.books_scraper: Scraping book page 37: https://books.toscrape.com/catalogue/page-37.html
+2026-10-07 08:06:22,814 INFO scrapers.books_scraper: Scraping book page 38: https://books.toscrape.com/catalogue/page-38.html
+2026-10-07 08:06:24,289 INFO scrapers.books_scraper: Scraping book page 39: https://books.toscrape.com/catalogue/page-39.html
+2026-10-07 08:06:25,448 INFO scrapers.books_scraper: Scraping book page 40: https://books.toscrape.com/catalogue/page-40.html
+2026-10-07 08:06:26,587 INFO scrapers.books_scraper: Scraping book page 41: https://books.toscrape.com/catalogue/page-41.html
+2026-10-07 08:06:27,750 INFO scrapers.books_scraper: Scraping book page 42: https://books.toscrape.com/catalogue/page-42.html
+2026-10-07 08:06:28,936 INFO scrapers.books_scraper: Scraping book page 43: https://books.toscrape.com/catalogue/page-43.html
+2026-10-07 08:06:30,137 INFO scrapers.books_scraper: Scraping book page 44: https://books.toscrape.com/catalogue/page-44.html
+2026-10-07 08:06:31,950 INFO scrapers.books_scraper: Scraping book page 45: https://books.toscrape.com/catalogue/page-45.html
+2026-10-07 08:06:33,415 INFO scrapers.books_scraper: Scraping book page 46: https://books.toscrape.com/catalogue/page-46.html
+2026-10-07 08:06:34,897 INFO scrapers.books_scraper: Scraping book page 47: https://books.toscrape.com/catalogue/page-47.html
+2026-10-07 08:06:36,498 INFO scrapers.books_scraper: Scraping book page 48: https://books.toscrape.com/catalogue/page-48.html
+2026-10-07 08:06:38,116 INFO scrapers.books_scraper: Scraping book page 49: https://books.toscrape.com/catalogue/page-49.html
+2026-10-07 08:06:39,698 INFO scrapers.books_scraper: Scraping book page 50: https://books.toscrape.com/catalogue/page-50.html
+2026-10-07 08:06:41,286 INFO scrapers.books_scraper: Collected 1000 raw book records from 50 pages
+2026-10-07 08:06:41,286 INFO scrapers.quotes_scraper: Scraping quote page 1: https://quotes.toscrape.com/
+2026-10-07 08:06:44,760 INFO scrapers.quotes_scraper: Scraping quote page 2: https://quotes.toscrape.com/page/2/
+2026-10-07 08:06:45,939 INFO scrapers.quotes_scraper: Scraping quote page 3: https://quotes.toscrape.com/page/3/
+2026-10-07 08:06:47,075 INFO scrapers.quotes_scraper: Scraping quote page 4: https://quotes.toscrape.com/page/4/
+2026-10-07 08:06:48,327 INFO scrapers.quotes_scraper: Scraping quote page 5: https://quotes.toscrape.com/page/5/
+2026-10-07 08:06:49,478 INFO scrapers.quotes_scraper: Scraping quote page 6: https://quotes.toscrape.com/page/6/
+2026-10-07 08:06:50,638 INFO scrapers.quotes_scraper: Scraping quote page 7: https://quotes.toscrape.com/page/7/
+2026-10-07 08:06:51,815 INFO scrapers.quotes_scraper: Scraping quote page 8: https://quotes.toscrape.com/page/8/
+2026-10-07 08:06:52,954 INFO scrapers.quotes_scraper: Scraping quote page 9: https://quotes.toscrape.com/page/9/
+2026-10-07 08:07:08,281 ERROR scrapers.quotes_scraper: Failed to fetch quote page https://quotes.toscrape.com/page/9/
+Traceback (most recent call last):
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\urllib3\response.py", line 929, in _error_catcher
+    yield
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\urllib3\response.py", line 1046, in _raw_read
+    data = self._fp_read(amt, read1=read1) if not fp_closed else b""
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\urllib3\response.py", line 1029, in _fp_read
+    return self._fp.read(amt) if amt is not None else self._fp.read()
+           ~~~~~~~~~~~~~^^^^^
+  File "C:\Users\indra\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 484, in read
+    s = self.fp.read(amt)
+  File "C:\Users\indra\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\indra\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\indra\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\requests\models.py", line 820, in generate
+    yield from self.raw.stream(chunk_size, decode_content=True)
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\urllib3\response.py", line 1291, in stream
+    data = self.read(amt=amt, decode_content=decode_content)
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\urllib3\response.py", line 1134, in read
+    data = self._raw_read(amt)
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\urllib3\response.py", line 1045, in _raw_read
+    with self._error_catcher():
+         ~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\indra\AppData\Local\Python\pythoncore-3.14-64\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\urllib3\response.py", line 934, in _error_catcher
+    raise ReadTimeoutError(self._pool, None, "Read timed out.") from e  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='quotes.toscrape.com', port=443): Read timed out.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\scrapers\quotes_scraper.py", line 51, in scrape_quotes
+    response = get_page(session, current_url)
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\scrapers\base_scraper.py", line 47, in get_page
+    response = session.get(url, timeout=REQUEST_TIMEOUT_SECONDS)
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\requests\sessions.py", line 602, in get
+    return self.request("GET", url, **kwargs)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\requests\sessions.py", line 746, in send
+    r.content
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\requests\models.py", line 902, in content
+    self._content = b"".join(self.iter_content(CONTENT_CHUNK_SIZE)) or b""
+                    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\requests\models.py", line 826, in generate
+    raise ConnectionError(e)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='quotes.toscrape.com', port=443): Read timed out.
+2026-10-07 08:07:08,288 INFO scrapers.quotes_scraper: Collected 80 raw quote records from 9 pages
+2026-10-07 08:07:08,308 INFO root: Pipeline completed: 1079 final records
+2026-10-07 08:27:43,661 INFO scrapers.books_scraper: Scraping book page 1: https://books.toscrape.com/
+2026-10-07 08:28:27,732 INFO scrapers.books_scraper: Scraping book page 1: https://books.toscrape.com/
+2026-10-07 08:28:29,863 INFO scrapers.books_scraper: Scraping book page 2: https://books.toscrape.com/catalogue/page-2.html
+2026-10-07 08:28:30,990 INFO scrapers.books_scraper: Scraping book page 3: https://books.toscrape.com/catalogue/page-3.html
+2026-10-07 08:28:32,114 INFO scrapers.books_scraper: Scraping book page 4: https://books.toscrape.com/catalogue/page-4.html
+2026-10-07 08:28:33,256 INFO scrapers.books_scraper: Scraping book page 5: https://books.toscrape.com/catalogue/page-5.html
+2026-10-07 08:28:34,371 INFO scrapers.books_scraper: Scraping book page 6: https://books.toscrape.com/catalogue/page-6.html
+2026-10-07 08:28:35,549 INFO scrapers.books_scraper: Scraping book page 7: https://books.toscrape.com/catalogue/page-7.html
+2026-10-07 08:28:37,304 INFO scrapers.books_scraper: Scraping book page 8: https://books.toscrape.com/catalogue/page-8.html
+2026-10-07 08:28:39,087 INFO scrapers.books_scraper: Scraping book page 9: https://books.toscrape.com/catalogue/page-9.html
+2026-10-07 08:28:40,349 INFO scrapers.books_scraper: Scraping book page 10: https://books.toscrape.com/catalogue/page-10.html
+2026-10-07 08:28:42,111 INFO scrapers.books_scraper: Scraping book page 11: https://books.toscrape.com/catalogue/page-11.html
+2026-10-07 08:28:43,731 INFO scrapers.books_scraper: Scraping book page 12: https://books.toscrape.com/catalogue/page-12.html
+2026-10-07 08:28:45,314 INFO scrapers.books_scraper: Scraping book page 13: https://books.toscrape.com/catalogue/page-13.html
+2026-10-07 08:28:46,955 INFO scrapers.books_scraper: Scraping book page 14: https://books.toscrape.com/catalogue/page-14.html
+2026-10-07 08:28:48,510 INFO scrapers.books_scraper: Scraping book page 15: https://books.toscrape.com/catalogue/page-15.html
+2026-10-07 08:28:49,967 INFO scrapers.books_scraper: Scraping book page 16: https://books.toscrape.com/catalogue/page-16.html
+2026-10-07 08:28:51,479 INFO scrapers.books_scraper: Scraping book page 17: https://books.toscrape.com/catalogue/page-17.html
+2026-10-07 08:28:52,970 INFO scrapers.books_scraper: Scraping book page 18: https://books.toscrape.com/catalogue/page-18.html
+2026-10-07 08:28:54,418 INFO scrapers.books_scraper: Scraping book page 19: https://books.toscrape.com/catalogue/page-19.html
+2026-10-07 08:28:55,851 INFO scrapers.books_scraper: Scraping book page 20: https://books.toscrape.com/catalogue/page-20.html
+2026-10-07 08:28:57,306 INFO scrapers.books_scraper: Scraping book page 21: https://books.toscrape.com/catalogue/page-21.html
+2026-10-07 08:28:58,920 INFO scrapers.books_scraper: Scraping book page 22: https://books.toscrape.com/catalogue/page-22.html
+2026-10-07 08:29:00,199 INFO scrapers.books_scraper: Scraping book page 23: https://books.toscrape.com/catalogue/page-23.html
+2026-10-07 08:29:01,346 INFO scrapers.books_scraper: Scraping book page 24: https://books.toscrape.com/catalogue/page-24.html
+2026-10-07 08:29:02,664 INFO scrapers.books_scraper: Scraping book page 25: https://books.toscrape.com/catalogue/page-25.html
+2026-10-07 08:29:03,810 INFO scrapers.books_scraper: Scraping book page 26: https://books.toscrape.com/catalogue/page-26.html
+2026-10-07 08:29:04,965 INFO scrapers.books_scraper: Scraping book page 27: https://books.toscrape.com/catalogue/page-27.html
+2026-10-07 08:29:06,124 INFO scrapers.books_scraper: Scraping book page 28: https://books.toscrape.com/catalogue/page-28.html
+2026-10-07 08:29:07,290 INFO scrapers.books_scraper: Scraping book page 29: https://books.toscrape.com/catalogue/page-29.html
+2026-10-07 08:29:08,464 INFO scrapers.books_scraper: Scraping book page 30: https://books.toscrape.com/catalogue/page-30.html
+2026-10-07 08:29:09,682 INFO scrapers.books_scraper: Scraping book page 31: https://books.toscrape.com/catalogue/page-31.html
+2026-10-07 08:29:10,850 INFO scrapers.books_scraper: Scraping book page 32: https://books.toscrape.com/catalogue/page-32.html
+2026-10-07 08:29:11,998 INFO scrapers.books_scraper: Scraping book page 33: https://books.toscrape.com/catalogue/page-33.html
+2026-10-07 08:29:13,172 INFO scrapers.books_scraper: Scraping book page 34: https://books.toscrape.com/catalogue/page-34.html
+2026-10-07 08:29:15,529 INFO scrapers.books_scraper: Scraping book page 35: https://books.toscrape.com/catalogue/page-35.html
+2026-10-07 08:29:17,736 INFO scrapers.books_scraper: Scraping book page 36: https://books.toscrape.com/catalogue/page-36.html
+2026-10-07 08:29:18,923 INFO scrapers.books_scraper: Scraping book page 37: https://books.toscrape.com/catalogue/page-37.html
+2026-10-07 08:29:20,094 INFO scrapers.books_scraper: Scraping book page 38: https://books.toscrape.com/catalogue/page-38.html
+2026-10-07 08:29:21,313 INFO scrapers.books_scraper: Scraping book page 39: https://books.toscrape.com/catalogue/page-39.html
+2026-10-07 08:29:22,566 INFO scrapers.books_scraper: Scraping book page 40: https://books.toscrape.com/catalogue/page-40.html
+2026-10-07 08:29:23,708 INFO scrapers.books_scraper: Scraping book page 41: https://books.toscrape.com/catalogue/page-41.html
+2026-10-07 08:29:24,896 INFO scrapers.books_scraper: Scraping book page 42: https://books.toscrape.com/catalogue/page-42.html
+2026-10-07 08:29:26,131 INFO scrapers.books_scraper: Scraping book page 43: https://books.toscrape.com/catalogue/page-43.html
+2026-10-07 08:29:27,341 INFO scrapers.books_scraper: Scraping book page 44: https://books.toscrape.com/catalogue/page-44.html
+2026-10-07 08:29:28,543 INFO scrapers.books_scraper: Scraping book page 45: https://books.toscrape.com/catalogue/page-45.html
+2026-10-07 08:29:29,732 INFO scrapers.books_scraper: Scraping book page 46: https://books.toscrape.com/catalogue/page-46.html
+2026-10-07 08:29:30,874 INFO scrapers.books_scraper: Scraping book page 47: https://books.toscrape.com/catalogue/page-47.html
+2026-10-07 08:29:32,057 INFO scrapers.books_scraper: Scraping book page 48: https://books.toscrape.com/catalogue/page-48.html
+2026-10-07 08:29:33,367 INFO scrapers.books_scraper: Scraping book page 49: https://books.toscrape.com/catalogue/page-49.html
+2026-10-07 08:29:34,667 INFO scrapers.books_scraper: Scraping book page 50: https://books.toscrape.com/catalogue/page-50.html
+2026-10-07 08:29:35,859 INFO scrapers.books_scraper: Collected 1000 raw book records from 50 pages
+2026-10-07 08:29:35,859 INFO scrapers.quotes_scraper: Scraping quote page 1: https://quotes.toscrape.com/
+2026-10-07 08:29:39,047 INFO scrapers.quotes_scraper: Scraping quote page 2: https://quotes.toscrape.com/page/2/
+2026-10-07 08:29:39,915 INFO scrapers.quotes_scraper: Scraping quote page 3: https://quotes.toscrape.com/page/3/
+2026-10-07 08:29:40,743 INFO scrapers.quotes_scraper: Scraping quote page 4: https://quotes.toscrape.com/page/4/
+2026-10-07 08:29:41,936 INFO scrapers.quotes_scraper: Scraping quote page 5: https://quotes.toscrape.com/page/5/
+2026-10-07 08:29:43,139 INFO scrapers.quotes_scraper: Scraping quote page 6: https://quotes.toscrape.com/page/6/
+2026-10-07 08:29:44,388 INFO scrapers.quotes_scraper: Scraping quote page 7: https://quotes.toscrape.com/page/7/
+2026-10-07 08:29:45,775 INFO scrapers.quotes_scraper: Scraping quote page 8: https://quotes.toscrape.com/page/8/
+2026-10-07 08:29:46,917 INFO scrapers.quotes_scraper: Scraping quote page 9: https://quotes.toscrape.com/page/9/
+2026-10-07 08:29:48,221 INFO scrapers.quotes_scraper: Scraping quote page 10: https://quotes.toscrape.com/page/10/
+2026-10-07 08:29:49,400 INFO scrapers.quotes_scraper: Collected 100 raw quote records from 10 pages
+2026-10-07 08:29:49,442 INFO root: Pipeline completed: 1099 final records
+2026-10-07 08:35:47,899 INFO scrapers.books_scraper: Scraping book page 1: https://books.toscrape.com/
+2026-10-07 08:35:51,399 INFO scrapers.books_scraper: Scraping book page 2: https://books.toscrape.com/catalogue/page-2.html
+2026-10-07 08:35:53,519 INFO scrapers.books_scraper: Scraping book page 3: https://books.toscrape.com/catalogue/page-3.html
+2026-10-07 08:35:55,349 INFO scrapers.books_scraper: Scraping book page 4: https://books.toscrape.com/catalogue/page-4.html
+2026-10-07 08:35:57,633 INFO scrapers.books_scraper: Scraping book page 5: https://books.toscrape.com/catalogue/page-5.html
+2026-10-07 08:35:59,719 INFO scrapers.books_scraper: Scraping book page 6: https://books.toscrape.com/catalogue/page-6.html
+2026-10-07 08:36:01,597 INFO scrapers.books_scraper: Scraping book page 7: https://books.toscrape.com/catalogue/page-7.html
+2026-10-07 08:36:03,475 INFO scrapers.books_scraper: Scraping book page 8: https://books.toscrape.com/catalogue/page-8.html
+2026-10-07 08:36:05,288 INFO scrapers.books_scraper: Scraping book page 9: https://books.toscrape.com/catalogue/page-9.html
+2026-10-07 08:36:07,052 INFO scrapers.books_scraper: Scraping book page 10: https://books.toscrape.com/catalogue/page-10.html
+2026-10-07 08:36:08,957 INFO scrapers.books_scraper: Scraping book page 11: https://books.toscrape.com/catalogue/page-11.html
+2026-10-07 08:36:10,889 INFO scrapers.books_scraper: Scraping book page 12: https://books.toscrape.com/catalogue/page-12.html
+2026-10-07 08:36:12,352 INFO scrapers.books_scraper: Scraping book page 13: https://books.toscrape.com/catalogue/page-13.html
+2026-10-07 08:36:13,954 INFO scrapers.books_scraper: Scraping book page 14: https://books.toscrape.com/catalogue/page-14.html
+2026-10-07 08:36:15,457 INFO scrapers.books_scraper: Scraping book page 15: https://books.toscrape.com/catalogue/page-15.html
+2026-10-07 08:36:16,618 INFO scrapers.books_scraper: Scraping book page 16: https://books.toscrape.com/catalogue/page-16.html
+2026-10-07 08:36:17,791 INFO scrapers.books_scraper: Scraping book page 17: https://books.toscrape.com/catalogue/page-17.html
+2026-10-07 08:36:19,083 INFO scrapers.books_scraper: Scraping book page 18: https://books.toscrape.com/catalogue/page-18.html
+2026-10-07 08:36:20,322 INFO scrapers.books_scraper: Scraping book page 19: https://books.toscrape.com/catalogue/page-19.html
+2026-10-07 08:36:21,467 INFO scrapers.books_scraper: Scraping book page 20: https://books.toscrape.com/catalogue/page-20.html
+2026-10-07 08:36:22,710 INFO scrapers.books_scraper: Scraping book page 21: https://books.toscrape.com/catalogue/page-21.html
+2026-10-07 08:36:23,876 INFO scrapers.books_scraper: Scraping book page 22: https://books.toscrape.com/catalogue/page-22.html
+2026-10-07 08:36:25,156 INFO scrapers.books_scraper: Scraping book page 23: https://books.toscrape.com/catalogue/page-23.html
+2026-10-07 08:36:26,417 INFO scrapers.books_scraper: Scraping book page 24: https://books.toscrape.com/catalogue/page-24.html
+2026-10-07 08:36:27,554 INFO scrapers.books_scraper: Scraping book page 25: https://books.toscrape.com/catalogue/page-25.html
+2026-10-07 08:36:28,697 INFO scrapers.books_scraper: Scraping book page 26: https://books.toscrape.com/catalogue/page-26.html
+2026-10-07 08:36:29,895 INFO scrapers.books_scraper: Scraping book page 27: https://books.toscrape.com/catalogue/page-27.html
+2026-10-07 08:36:30,154 INFO scrapers.books_scraper: Scraping book page 1: https://books.toscrape.com/
+2026-10-07 08:36:31,064 INFO scrapers.books_scraper: Scraping book page 28: https://books.toscrape.com/catalogue/page-28.html
+2026-10-07 08:36:32,232 INFO scrapers.books_scraper: Scraping book page 29: https://books.toscrape.com/catalogue/page-29.html
+2026-10-07 08:36:32,513 INFO scrapers.books_scraper: Scraping book page 2: https://books.toscrape.com/catalogue/page-2.html
+2026-10-07 08:36:33,419 INFO scrapers.books_scraper: Scraping book page 30: https://books.toscrape.com/catalogue/page-30.html
+2026-10-07 08:36:33,707 INFO scrapers.books_scraper: Scraping book page 3: https://books.toscrape.com/catalogue/page-3.html
+2026-10-07 08:36:34,566 INFO scrapers.books_scraper: Scraping book page 31: https://books.toscrape.com/catalogue/page-31.html
+2026-10-07 08:36:34,958 INFO scrapers.books_scraper: Scraping book page 4: https://books.toscrape.com/catalogue/page-4.html
+2026-10-07 08:36:35,814 INFO scrapers.books_scraper: Scraping book page 32: https://books.toscrape.com/catalogue/page-32.html
+2026-10-07 08:36:36,183 INFO scrapers.books_scraper: Scraping book page 5: https://books.toscrape.com/catalogue/page-5.html
+2026-10-07 08:36:37,009 INFO scrapers.books_scraper: Scraping book page 33: https://books.toscrape.com/catalogue/page-33.html
+2026-10-07 08:36:37,347 INFO scrapers.books_scraper: Scraping book page 6: https://books.toscrape.com/catalogue/page-6.html
+2026-10-07 08:36:38,200 INFO scrapers.books_scraper: Scraping book page 34: https://books.toscrape.com/catalogue/page-34.html
+2026-10-07 08:36:38,560 INFO scrapers.books_scraper: Scraping book page 7: https://books.toscrape.com/catalogue/page-7.html
+2026-10-07 08:36:39,391 INFO scrapers.books_scraper: Scraping book page 35: https://books.toscrape.com/catalogue/page-35.html
+2026-10-07 08:36:39,791 INFO scrapers.books_scraper: Scraping book page 8: https://books.toscrape.com/catalogue/page-8.html
+2026-10-07 08:36:40,663 INFO scrapers.books_scraper: Scraping book page 36: https://books.toscrape.com/catalogue/page-36.html
+2026-10-07 08:36:40,991 INFO scrapers.books_scraper: Scraping book page 9: https://books.toscrape.com/catalogue/page-9.html
+2026-10-07 08:36:41,913 INFO scrapers.books_scraper: Scraping book page 37: https://books.toscrape.com/catalogue/page-37.html
+2026-10-07 08:36:42,271 INFO scrapers.books_scraper: Scraping book page 10: https://books.toscrape.com/catalogue/page-10.html
+2026-10-07 08:36:43,081 INFO scrapers.books_scraper: Scraping book page 38: https://books.toscrape.com/catalogue/page-38.html
+2026-10-07 08:36:43,560 INFO scrapers.books_scraper: Scraping book page 11: https://books.toscrape.com/catalogue/page-11.html
+2026-10-07 08:36:44,243 INFO scrapers.books_scraper: Scraping book page 39: https://books.toscrape.com/catalogue/page-39.html
+2026-10-07 08:36:44,831 INFO scrapers.books_scraper: Scraping book page 12: https://books.toscrape.com/catalogue/page-12.html
+2026-10-07 08:36:45,442 INFO scrapers.books_scraper: Scraping book page 40: https://books.toscrape.com/catalogue/page-40.html
+2026-10-07 08:36:46,065 INFO scrapers.books_scraper: Scraping book page 13: https://books.toscrape.com/catalogue/page-13.html
+2026-10-07 08:36:46,682 INFO scrapers.books_scraper: Scraping book page 41: https://books.toscrape.com/catalogue/page-41.html
+2026-10-07 08:36:47,851 INFO scrapers.books_scraper: Scraping book page 42: https://books.toscrape.com/catalogue/page-42.html
+2026-10-07 08:36:48,141 INFO scrapers.books_scraper: Scraping book page 14: https://books.toscrape.com/catalogue/page-14.html
+2026-10-07 08:36:49,028 INFO scrapers.books_scraper: Scraping book page 43: https://books.toscrape.com/catalogue/page-43.html
+2026-10-07 08:36:49,492 INFO scrapers.books_scraper: Scraping book page 15: https://books.toscrape.com/catalogue/page-15.html
+2026-10-07 08:36:50,431 INFO scrapers.books_scraper: Scraping book page 44: https://books.toscrape.com/catalogue/page-44.html
+2026-10-07 08:36:51,619 INFO scrapers.books_scraper: Scraping book page 16: https://books.toscrape.com/catalogue/page-16.html
+2026-10-07 08:36:51,620 INFO scrapers.books_scraper: Scraping book page 45: https://books.toscrape.com/catalogue/page-45.html
+2026-10-07 08:36:52,790 INFO scrapers.books_scraper: Scraping book page 46: https://books.toscrape.com/catalogue/page-46.html
+2026-10-07 08:36:53,471 INFO scrapers.books_scraper: Scraping book page 17: https://books.toscrape.com/catalogue/page-17.html
+2026-10-07 08:36:53,952 INFO scrapers.books_scraper: Scraping book page 47: https://books.toscrape.com/catalogue/page-47.html
+2026-10-07 08:36:54,961 INFO scrapers.books_scraper: Scraping book page 18: https://books.toscrape.com/catalogue/page-18.html
+2026-10-07 08:36:55,389 INFO scrapers.books_scraper: Scraping book page 48: https://books.toscrape.com/catalogue/page-48.html
+2026-10-07 08:36:56,521 INFO scrapers.books_scraper: Scraping book page 19: https://books.toscrape.com/catalogue/page-19.html
+2026-10-07 08:36:56,528 INFO scrapers.books_scraper: Scraping book page 49: https://books.toscrape.com/catalogue/page-49.html
+2026-10-07 08:36:57,681 INFO scrapers.books_scraper: Scraping book page 50: https://books.toscrape.com/catalogue/page-50.html
+2026-10-07 08:36:58,043 INFO scrapers.books_scraper: Scraping book page 20: https://books.toscrape.com/catalogue/page-20.html
+2026-10-07 08:36:58,838 INFO scrapers.books_scraper: Collected 1000 raw book records from 50 pages
+2026-10-07 08:36:58,838 INFO scrapers.quotes_scraper: Scraping quote page 1: https://quotes.toscrape.com/
+2026-10-07 08:36:59,551 INFO scrapers.books_scraper: Scraping book page 21: https://books.toscrape.com/catalogue/page-21.html
+2026-10-07 08:37:00,833 INFO scrapers.quotes_scraper: Scraping quote page 2: https://quotes.toscrape.com/page/2/
+2026-10-07 08:37:01,160 INFO scrapers.books_scraper: Scraping book page 22: https://books.toscrape.com/catalogue/page-22.html
+2026-10-07 08:37:01,675 INFO scrapers.quotes_scraper: Scraping quote page 3: https://quotes.toscrape.com/page/3/
+2026-10-07 08:37:02,505 INFO scrapers.quotes_scraper: Scraping quote page 4: https://quotes.toscrape.com/page/4/
+2026-10-07 08:37:02,706 INFO scrapers.books_scraper: Scraping book page 23: https://books.toscrape.com/catalogue/page-23.html
+2026-10-07 08:37:03,366 INFO scrapers.quotes_scraper: Scraping quote page 5: https://quotes.toscrape.com/page/5/
+2026-10-07 08:37:04,210 INFO scrapers.quotes_scraper: Scraping quote page 6: https://quotes.toscrape.com/page/6/
+2026-10-07 08:37:04,215 INFO scrapers.books_scraper: Scraping book page 24: https://books.toscrape.com/catalogue/page-24.html
+2026-10-07 08:37:05,051 INFO scrapers.quotes_scraper: Scraping quote page 7: https://quotes.toscrape.com/page/7/
+2026-10-07 08:37:05,481 INFO scrapers.books_scraper: Scraping book page 25: https://books.toscrape.com/catalogue/page-25.html
+2026-10-07 08:37:05,901 INFO scrapers.quotes_scraper: Scraping quote page 8: https://quotes.toscrape.com/page/8/
+2026-10-07 08:37:06,779 INFO scrapers.books_scraper: Scraping book page 26: https://books.toscrape.com/catalogue/page-26.html
+2026-10-07 08:37:07,089 INFO scrapers.quotes_scraper: Scraping quote page 9: https://quotes.toscrape.com/page/9/
+2026-10-07 08:37:08,055 INFO scrapers.books_scraper: Scraping book page 27: https://books.toscrape.com/catalogue/page-27.html
+2026-10-07 08:37:08,286 INFO scrapers.quotes_scraper: Scraping quote page 10: https://quotes.toscrape.com/page/10/
+2026-10-07 08:37:09,160 INFO scrapers.quotes_scraper: Collected 100 raw quote records from 10 pages
+2026-10-07 08:37:09,224 INFO root: Pipeline completed: 1099 final records
+2026-10-07 08:37:09,312 INFO scrapers.books_scraper: Scraping book page 28: https://books.toscrape.com/catalogue/page-28.html
+2026-10-07 08:37:10,551 INFO scrapers.books_scraper: Scraping book page 29: https://books.toscrape.com/catalogue/page-29.html
+2026-10-07 08:37:12,799 INFO scrapers.books_scraper: Scraping book page 30: https://books.toscrape.com/catalogue/page-30.html
+2026-10-07 08:37:14,091 INFO scrapers.books_scraper: Scraping book page 31: https://books.toscrape.com/catalogue/page-31.html
+2026-10-07 08:37:16,889 INFO scrapers.books_scraper: Scraping book page 32: https://books.toscrape.com/catalogue/page-32.html
+2026-10-07 08:37:18,879 INFO scrapers.books_scraper: Scraping book page 33: https://books.toscrape.com/catalogue/page-33.html
+2026-10-07 08:37:20,868 INFO scrapers.books_scraper: Scraping book page 34: https://books.toscrape.com/catalogue/page-34.html
+2026-10-07 08:37:23,233 INFO scrapers.books_scraper: Scraping book page 35: https://books.toscrape.com/catalogue/page-35.html
+2026-10-07 08:37:25,231 INFO scrapers.books_scraper: Scraping book page 36: https://books.toscrape.com/catalogue/page-36.html
+2026-10-07 08:37:27,155 INFO scrapers.books_scraper: Scraping book page 37: https://books.toscrape.com/catalogue/page-37.html
+2026-10-07 08:37:29,180 INFO scrapers.books_scraper: Scraping book page 38: https://books.toscrape.com/catalogue/page-38.html
+2026-10-07 08:37:31,093 INFO scrapers.books_scraper: Scraping book page 39: https://books.toscrape.com/catalogue/page-39.html
+2026-10-07 08:37:33,343 INFO scrapers.books_scraper: Scraping book page 40: https://books.toscrape.com/catalogue/page-40.html
+2026-10-07 08:37:35,431 INFO scrapers.books_scraper: Scraping book page 41: https://books.toscrape.com/catalogue/page-41.html
+2026-10-07 08:37:37,323 INFO scrapers.books_scraper: Scraping book page 42: https://books.toscrape.com/catalogue/page-42.html
+2026-10-07 08:37:39,428 INFO scrapers.books_scraper: Scraping book page 43: https://books.toscrape.com/catalogue/page-43.html
+2026-10-07 08:37:41,310 INFO scrapers.books_scraper: Scraping book page 44: https://books.toscrape.com/catalogue/page-44.html
+2026-10-07 08:37:43,224 INFO scrapers.books_scraper: Scraping book page 45: https://books.toscrape.com/catalogue/page-45.html
+2026-10-07 08:37:45,092 INFO scrapers.books_scraper: Scraping book page 46: https://books.toscrape.com/catalogue/page-46.html
+2026-10-07 08:37:47,184 INFO scrapers.books_scraper: Scraping book page 47: https://books.toscrape.com/catalogue/page-47.html
+2026-10-07 08:37:49,998 INFO scrapers.books_scraper: Scraping book page 48: https://books.toscrape.com/catalogue/page-48.html
+2026-10-07 08:37:52,242 INFO scrapers.books_scraper: Scraping book page 49: https://books.toscrape.com/catalogue/page-49.html
+2026-10-07 08:37:54,474 INFO scrapers.books_scraper: Scraping book page 50: https://books.toscrape.com/catalogue/page-50.html
+2026-10-07 08:37:56,742 INFO scrapers.books_scraper: Collected 1000 raw book records from 50 pages
+2026-10-07 08:37:56,742 INFO scrapers.quotes_scraper: Scraping quote page 1: https://quotes.toscrape.com/
+2026-10-07 08:37:58,692 INFO scrapers.quotes_scraper: Scraping quote page 2: https://quotes.toscrape.com/page/2/
+2026-10-07 08:38:00,024 INFO scrapers.quotes_scraper: Scraping quote page 3: https://quotes.toscrape.com/page/3/
+2026-10-07 08:38:00,923 INFO scrapers.quotes_scraper: Scraping quote page 4: https://quotes.toscrape.com/page/4/
+2026-10-07 08:38:02,277 INFO scrapers.quotes_scraper: Scraping quote page 5: https://quotes.toscrape.com/page/5/
+2026-10-07 08:38:17,740 ERROR scrapers.quotes_scraper: Failed to fetch quote page https://quotes.toscrape.com/page/5/
+Traceback (most recent call last):
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\urllib3\response.py", line 929, in _error_catcher
+    yield
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\urllib3\response.py", line 1046, in _raw_read
+    data = self._fp_read(amt, read1=read1) if not fp_closed else b""
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\urllib3\response.py", line 1029, in _fp_read
+    return self._fp.read(amt) if amt is not None else self._fp.read()
+           ~~~~~~~~~~~~~^^^^^
+  File "C:\Users\indra\AppData\Local\Python\pythoncore-3.14-64\Lib\http\client.py", line 484, in read
+    s = self.fp.read(amt)
+  File "C:\Users\indra\AppData\Local\Python\pythoncore-3.14-64\Lib\socket.py", line 729, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Users\indra\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\indra\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\requests\models.py", line 820, in generate
+    yield from self.raw.stream(chunk_size, decode_content=True)
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\urllib3\response.py", line 1291, in stream
+    data = self.read(amt=amt, decode_content=decode_content)
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\urllib3\response.py", line 1134, in read
+    data = self._raw_read(amt)
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\urllib3\response.py", line 1045, in _raw_read
+    with self._error_catcher():
+         ~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\indra\AppData\Local\Python\pythoncore-3.14-64\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\urllib3\response.py", line 934, in _error_catcher
+    raise ReadTimeoutError(self._pool, None, "Read timed out.") from e  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='quotes.toscrape.com', port=443): Read timed out.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\scrapers\quotes_scraper.py", line 51, in scrape_quotes
+    response = get_page(session, current_url)
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\scrapers\base_scraper.py", line 47, in get_page
+    response = session.get(url, timeout=REQUEST_TIMEOUT_SECONDS)
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\requests\sessions.py", line 602, in get
+    return self.request("GET", url, **kwargs)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\requests\sessions.py", line 746, in send
+    r.content
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\requests\models.py", line 902, in content
+    self._content = b"".join(self.iter_content(CONTENT_CHUNK_SIZE)) or b""
+                    ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\indra\OneDrive\Desktop\Web Scraping\venv\Lib\site-packages\requests\models.py", line 826, in generate
+    raise ConnectionError(e)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='quotes.toscrape.com', port=443): Read timed out.
+2026-10-07 08:38:17,753 INFO scrapers.quotes_scraper: Collected 40 raw quote records from 5 pages
+2026-10-07 08:38:17,803 INFO root: Pipeline completed: 1039 final records

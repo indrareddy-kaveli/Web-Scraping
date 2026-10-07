@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Web Scraping Project</title>
+    <style>
+      body {
+        margin: 0;
+        font-family: Arial, sans-serif;
+        background: linear-gradient(135deg, #0f172a, #111827);
+        color: #e5e7eb;
+      }
+      .container {
+        max-width: 1100px;
+        margin: 0 auto;
+        padding: 40px 20px 80px;
+      }
+      .tag {
+        display: inline-block;
+        background: rgba(56, 189, 248, 0.12);
+        border: 1px solid rgba(56, 189, 248, 0.4);
+        border-radius: 999px;
+        padding: 7px 12px;
+        color: #7dd3fc;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        font-size: 12px;
+      }
+      h1 {
+        font-size: clamp(2.3rem, 5vw, 4rem);
+        margin: 18px 0 12px;
+      }
+      p {
+        color: #cbd5e1;
+        line-height: 1.7;
+        font-size: 1.05rem;
+      }
+      .stats {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+        gap: 18px;
+        margin: 30px 0;
+      }
+      .card {
+        background: rgba(17, 24, 39, 0.85);
+        border: 1px solid rgba(148, 163, 184, 0.2);
+        border-radius: 18px;
+        padding: 22px 18px;
+      }
+      .card strong {
+        display: block;
+        font-size: 2rem;
+        margin-bottom: 10px;
+      }
+      .links {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        margin: 20px 0 30px;
+      }
+      a.button {
+        display: inline-block;
+        padding: 11px 16px;
+        border-radius: 10px;
+        text-decoration: none;
+        background: rgba(56, 189, 248, 0.12);
+        border: 1px solid rgba(56, 189, 248, 0.5);
+        color: #e0f2fe;
+      }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        overflow: hidden;
+        border-radius: 12px;
+      }
+      th, td {
+        text-align: left;
+        padding: 12px 10px;
+        border-bottom: 1px solid rgba(148, 163, 184, 0.2);
+      }
+      th {
+        color: #94a3b8;
+      }
+      .muted { color: #94a3b8; }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="tag">Published project</div>
+      <h1>Multi-Source Web Scraping & Data Consolidation</h1>
+      <p>
+        This project scrapes both public demo websites, cleans and validates the output,
+        removes duplicates, and exports the final dataset and summary report.
+      </p>
+
+      <div id="stats" class="stats"></div>
+
+      <div class="links">
+        <a class="button" href="output/final_dataset.csv" target="_blank">Open final CSV</a>
+        <a class="button" href="output/summary_report.json" target="_blank">Open summary JSON</a>
+        <a class="button" href="README.md" target="_blank">Open README</a>
+      </div>
+
+      <div class="card">
+        <h2>Latest dataset preview</h2>
+        <table>
+          <thead>
+            <tr>
+              <th>Source</th>
+              <th>Title / Quote</th>
+              <th>Author</th>
+              <th>Price</th>
+              <th>Rating</th>
+            </tr>
+          </thead>
+          <tbody id="table-body"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <script>
+      async function loadSummary() {
+        const summary = await fetch('output/summary_report.json').then(r => r.json());
+        const stats = document.getElementById('stats');
+        const items = [
+          { label: 'Final records', value: summary.final_record_count },
+          { label: 'Books scraped', value: summary.records_collected_per_source['Books to Scrape'] },
+          { label: 'Quotes scraped', value: summary.records_collected_per_source['Quotes to Scrape'] },
+          { label: 'Duplicates removed', value: summary.duplicates_detected }
+        ];
+        stats.innerHTML = items.map(item => `
+          <div class="card">
+            <strong>${item.value}</strong>
+            <span class="muted">${item.label}</span>
+          </div>
+        `).join('');
+      }
+
+      async function loadPreview() {
+        const csvText = await fetch('output/final_dataset.csv').then(r => r.text());
+        const lines = csvText.trim().split(/\r?\n/).filter(Boolean);
+        const rows = lines.slice(1, 8).map(line => {
+          const parts = line.match(/("[^"]*(?:""[^"]*)*"|[^,]+)/g) || [];
+          return {
+            source: parts[0]?.replace(/^"|"$/g, '').replace(/""/g, '"'),
+            title: parts[2]?.replace(/^"|"$/g, '').replace(/""/g, '"'),
+            author: parts[7]?.replace(/^"|"$/g, '').replace(/""/g, '"'),
+            price: parts[4]?.replace(/^"|"$/g, '').replace(/""/g, '"'),
+            rating: parts[5]?.replace(/^"|"$/g, '').replace(/""/g, '"')
+          };
+        });
+
+        document.getElementById('table-body').innerHTML = rows.map(row => `
+          <tr>
+            <td>${row.source || '—'}</td>
+            <td>${row.title || '—'}</td>
+            <td>${row.author || '—'}</td>
+            <td>${row.price ? '$' + row.price : '—'}</td>
+            <td>${row.rating || '—'}</td>
+          </tr>
+        `).join('');
+      }
+
+      loadSummary();
+      loadPreview();
+    </script>
+  </body>
+</html>
